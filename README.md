@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![caption](link to image / GIF)
+![caption](https://github.com/Xm3a01/dicee-game/blob/main/screens/diceeapp.gif / GIF)
 
 This project is a starting point for a Flutter application.
 
